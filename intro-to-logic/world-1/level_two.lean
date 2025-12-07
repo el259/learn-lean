@@ -1,0 +1,1 @@
+exact and_intro p s
